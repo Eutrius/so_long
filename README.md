@@ -12,12 +12,13 @@ The game uses the MinilibX graphics library and relies on solid algorithms for p
 
 - [Features](#features)
 - [Installation](#installation)
-- [Game Controls](#game-controls)
-- [Map Format](#map-format)
-- [Game Elements](#game-elements)
+- [Game Controls](#-game-controls)
+- [Map Format](#-map-format)
+- [Game Elements](#-game-elements)
 - [Screenshots](#screenshots)
-- [Technical Details](#technical-details)
-- [Challenges Conquered](#challenges-conquered)
+- [Technical Details](#-technical-details)
+- [Challenges Conquered](#-challenges-conquered)
+- [License](#license)
 
 ## ✨ Features
 
